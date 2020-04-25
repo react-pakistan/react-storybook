@@ -25,21 +25,6 @@
 
 React Pakistan is an OpenSource & Free Software (FOSS) platform, creating React software solutions for the global community.
 
-### **Use**
-
-- [A](https://taimoormk.github.io/react-commons-collection/?path=/story/link-a--a-story)
-```javascript
-  import { A } from '@react-pakistan/react-commons-collection';
-
-  <A
-    color="#000000"
-    href="https://google.com"
-    target="_blank"
-  >
-    Go to Google
-  </A>
-```
-
 # Other Libraries from ReactPakistan
 <div>
   <a
