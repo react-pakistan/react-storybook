@@ -10,6 +10,6 @@ import "storycap/register";
 import registerWithPanelTitle from "storybook-readme/registerWithPanelTitle";
 import "./google-analytics/register";
 
-window.STORYBOOK_GA_ID = "UA-145600298-1";
+window.STORYBOOK_GA_ID = "UA-164523352-1";
 
 registerWithPanelTitle("Docs");
