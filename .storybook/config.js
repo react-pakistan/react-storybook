@@ -12,7 +12,7 @@ addDecorator(withA11y);
 addDecorator(withScreenshot);
 addDecorator(withInfo({
   header: false,
-  text: "React Pakistan - React Commons Collection",
+  text: "React Pakistan - React Storybook",
   inline: true,
 }));
 addParameters({
